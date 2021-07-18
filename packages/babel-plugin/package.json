@@ -43,7 +43,7 @@
     "test-exclude": "6.0.0"
   },
   "devDependencies": {
-    "@types/babel__core": "7.1.12"
+    "@types/babel__core": "7.1.15"
   },
   "optionalDependencies": {
     "less": "^4.1.0",
